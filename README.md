@@ -1,9 +1,9 @@
 ### HI 👋
 
 - 🔭 I’m currently working on Korea University (M.S).
-- 🌱 I’m currently learning generative model, multi-modal data representation...
+- 🌱 My research interests lie in the field of generative model, multi-modal data representation learning
 - 📫 How to reach me: easter3163@naver.com / doranee12@gmail.com / easter3163@korea.ac.kr
-
+- More information : https://lsh3163.github.io/seunghyunlee/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh3163)](https://github.com/lsh3163/github-readme-stats)
 
